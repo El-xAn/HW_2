@@ -44,7 +44,7 @@ input {
     grid-column: 1/-1;
     padding: 0;
 }
-.clean {
+.cl {
     background-color: #b9b9b9;
     grid-column: 1;
     grid-row: 2/4;
@@ -60,8 +60,8 @@ input {
 .equal {
     background-color: #7f00a;
     grid-column: 6;
-    grid-row: 2/6;
+    grid-row: 3/6;
 }
 .op {
-    background-color: black;
+    background-color: blue;
 }
