@@ -1,0 +1,29 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "start": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/El-xAn/calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/El-xAn/calculator/issues"
+  },
+  "homepage": "https://github.com/El-xAn/calculator#readme",
+  "devDependencies": {
+    "browser-sync": "2.26.7",
+    "browserify": "16.5.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "2.6.1",
+    "gulp-css": "^0.1.0",
+    "gulp-csso": "^4.0.1",
+    "vinyl-source-stream": "2.0.0"
+  }
+}
